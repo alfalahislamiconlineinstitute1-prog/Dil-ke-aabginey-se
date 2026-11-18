@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle outer gold ring inside 66dp safe zone (center 54,54 radius 29) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,25 A29,29 0 1,1 53.99,25 Z"
+        android:strokeWidth="2.2"
+        android:strokeColor="#E5B14A" />
+    <!-- 8-point Rub-el-Hizb geometric star: axis-aligned square + rotated square -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M37,37 L71,37 L71,71 L37,71 Z"
+        android:strokeWidth="2.4"
+        android:strokeColor="#E5B14A"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,30 L78,54 L54,78 L30,54 Z"
+        android:strokeWidth="2.4"
+        android:strokeColor="#E5B14A"
+        android:strokeLineJoin="round" />
+    <!-- Center medallion diamond & four-petal motif (❖) -->
+    <path
+        android:fillColor="#E5B14A"
+        android:pathData="M54,43 L65,54 L54,65 L43,54 Z" />
+    <path
+        android:fillColor="#06241B"
+        android:pathData="M54,48 L60,54 L54,60 L48,54 Z" />
+    <path
+        android:fillColor="#7FD6B4"
+        android:pathData="M54,51 A3,3 0 1,1 53.99,51 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "دل کے آبگینے سے",
+  "description": "مجموعۂ حمد و نعت و نظم — حضرت مولانا مفتی محمد شعیب اللہ خان صاحب مفتاحی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
